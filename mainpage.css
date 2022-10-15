@@ -1,0 +1,23 @@
+.haupt{
+    font-family:"Arial";
+    margin-left: 8px;
+}
+
+.links{
+    font-family: "Arial";
+    margin-left: 8px;
+}
+
+.GWK {
+    color: white;
+    background-color: rgb(223, 21, 21);
+    border: none;
+    padding-left: 10px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Impact';
+    border-radius: 20px;
+    font-style: italic;
+}
